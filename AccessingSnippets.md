@@ -17,7 +17,7 @@
 3. Type in the first few letters of the programming language you want to make a snippet for. You will see your desired language appear, press enter to select.
 
 
-![](./snippetCommandPalette.gif)
+![](images/snippetCommandPalette.gif)
 
 
 ### Menus
@@ -26,4 +26,4 @@
 
 2. Type in the first few letters of the programming language you want to make a snippet for. You will see your desired language appear, press enter to select.
 
-![](snippetMenus.gif)
+![](images/snippetMenus.gif)

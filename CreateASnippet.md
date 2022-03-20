@@ -46,8 +46,8 @@ endfor;
 
 Now we can convert this into a VS Code snippet
 
-![](snippetGeneration.png)
+![](images/snippetGeneration.png)
 
 Copy that snippet text, and paste it inside your php VS Code snippet file.
 
-![](addASnippet.gif)
+![](images/addASnippet.gif)

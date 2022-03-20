@@ -2,7 +2,7 @@
 
 Snippets allow you to quickly create repetitive boilerplate code.
 
-![](snippetQuickDemo.gif)
+![](images/snippetQuickDemo.gif)
 
 Snippets are stored inside VS Code snippet files, which are in JSON format
 
@@ -23,7 +23,7 @@ Snippets are stored inside VS Code snippet files, which are in JSON format
 
 ## Snippets Defined
 
-![](snippetsDefined.png)
+![](images/snippetsDefined.png)
 
 ## Snippet Symbols
 
@@ -31,7 +31,7 @@ When you are making a snippet, there are 2 main types of symbols:
 1. Tab Stops
 2. Final Cursor Position
 
-![](snippetsSymbols.png)
+![](images/snippetsSymbols.png)
 
 ## Tab Stops
 
