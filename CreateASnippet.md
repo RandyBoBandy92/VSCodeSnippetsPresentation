@@ -40,6 +40,8 @@ for ($${1:i}=0; $${1:i} < count($${2:array}); $${1:i}++):
     $${3:item} = $${2:array}[$${1:i}];
     ${0}
 endfor;
+
+
 ```
 
 Now we can convert this into a VS Code snippet
