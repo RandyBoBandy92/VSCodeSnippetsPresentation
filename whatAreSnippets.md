@@ -2,24 +2,15 @@
 
 Snippets allow you to quickly create repetitive boilerplate code.
 
+When you use `!` in a html file to quickly make boilerplate, you are using snippets. Same with `rcfe` in react.
+
 ![](images/snippetQuickDemo.gif)
 
 Snippets are stored inside VS Code snippet files, which are in JSON format
 
-### Example Snippet File
-
-```json
-"php for loop in alternative syntax": {
-  "prefix": "afor",
-  "body": [
-    "for ($${1:i}=0; $${1:i} < count($${2:array}); $${1:i}++):",
-    "    $${3:item} = $${2:array}[$${1:i}];",
-    "    ${0}",
-    "endfor;"
-  ],
-  "description": "php for loop in alternative syntax"
-}
-```
+## Why use Snippets?
+- The less that we have to type ourselves, the less likelihood of missing semicolons, typos, etc.
+- Less time looking up syntax, more productivity
 
 ## Snippets Defined
 
