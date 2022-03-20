@@ -1,4 +1,5 @@
 # Accessing Snippets
+Snippets can exist at the project level, but for our purposes we are going to add "global snippets" that you will be able to use on all projects.
 
 ## 2 Methods:
 1. Command Palette
