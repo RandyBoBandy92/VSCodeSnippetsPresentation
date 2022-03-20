@@ -15,3 +15,25 @@ When you are making a snippet, there are 2 main types of symbols:
 2. Final Cursor Position
 
 ![](snippetsSymbols.png)
+
+## Tab Stops
+
+Tab Stops let us rename portions of our code
+
+```php
+function funcName ($params) {
+    
+}
+
+
+// Written with tab stops
+
+function ${1:funcName} ($${2:params}) {
+    ${0}
+}
+
+```
+
+## Final Cursor Position
+
+Final Cursor Position allows you to specify where you want your.. final cursor position to be! (**wow**)
