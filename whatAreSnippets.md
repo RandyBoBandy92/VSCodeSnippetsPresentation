@@ -9,7 +9,7 @@ When you use `!` in a html file to quickly make boilerplate, you are using snipp
 Snippets are stored inside VS Code snippet files, which are in JSON format
 
 ## Why use Snippets?
-- The less that we have to type ourselves, the less likelihood of missing semicolons, typos, etc.
+- The less that we have to type ourselves, the less likelihood of errors like missing semicolons, typos, etc.
 - Less time looking up syntax, more productivity
 
 ## Snippets Defined
