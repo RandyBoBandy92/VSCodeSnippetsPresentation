@@ -1,37 +1,12 @@
 <?php
 
 ?>
-
-<main>
-    <h1>Something</h1>
+<html>
+    <main>
+    </main>
     <?php
 
-        for ($${1:index}=0; $${1:index} < $${2:array}.length; $${1:index}++) :
-            ${0}
-        endfor;
-
-        // Becomes
-
-        for ($index=0; $index < count($things); $index++):
-            $thing = $things[$index];
-            // Nice.
-        endfor;
-
-?>
+    ?>
+</html>
 
 
-
-<?php
-    function myFunction ($arg) {
-        echo "Hello World!";
-    }
-
-?>
-
-
-
-
-</main>
-
-
-?>

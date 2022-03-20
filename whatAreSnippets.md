@@ -36,8 +36,8 @@ function funcName ($params) {
 
 // Written with tab stops
 
-function ${1:funcName} ($${2:params}) {
-    ${0}
+function ${1:funcName} (${2:params}) {
+    $0
 }
 
 ```

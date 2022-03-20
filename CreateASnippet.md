@@ -36,8 +36,8 @@ Let's turn this into code a snippet generator can use.
 // ${3} - Renamable item variable
 // ${0} - Final Cursor Position
 
-for ($${1:i}=0; $${1:i} < count($${2:array}); $${1:i}++):
-    $${3:item} = $${2:array}[$${1:i}];
+for (${1:i}=0; ${1:i} < count(${2:array}); ${1:i}++):
+    ${3:item} = ${2:array}[${1:i}];
     ${0}
 endfor;
 
